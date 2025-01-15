@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://www.odokaa.net">
-    <img src="./milim.webp" alt="Banner" width="25%" height="auto">
+    <img src="./milim.webp" alt="Banner">
   </a>
 </p>
 
