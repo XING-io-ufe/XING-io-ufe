@@ -1,10 +1,10 @@
 <p align="center">
-  <a href="https://www.odokaa.net">
+  <a href="https://www.otech.mn">
     <img src="./milim.webp" alt="Banner" width="35%" height="auto">
   </a>
 </p>
 
-<h1 align="center">Hi, I'm <a href="https://www.odokaa.net">Odokaa (オドカー)</a>!</h1>
+<h1 align="center">Hi, I'm <a href="https://www.otech.mn">Odokaa (オドカー)</a>!</h1>
 <p align="center">
   <a href="https://www.odokaa.net">
     <img src="./logo.png" width="100px" height="80px" alt="Odokaa">
@@ -15,7 +15,8 @@
 <p align="center">❤ I'm currently working on software, app development, and web creation.</p>
 
 <p align="center">
-  <strong><a href="https://www.tsukinosutaa.com">Website</a></strong>
+  <strong><a href="https://www.otech.mn">Official website</a></strong>
+  <strong><a href="https://www.tsukinosutaa.com">Secondary website</a></strong>
   <strong><a href="https://www.instagram.com/odokaa0403/">Instagram</a></strong> |
   <strong><a href="https://www.facebook.com/Odokaa0403/">Facebook</a></strong> |
   <strong><a href="mailto:xingdaiyamondo@gmail.com">Gmail</a></strong> |
