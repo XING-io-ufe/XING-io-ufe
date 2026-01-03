@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://www.otech.mn" aria-label="Otech">
-    <img src="./milim.webp" alt="Banner" style="max-width:900px;width:86%;height:auto;border-radius:14px;box-shadow:0 10px 30px rgba(0,0,0,0.15)">
+    <img src="./milim.webp" alt="Banner" style="max-width:900px;width:40%;height:auto;border-radius:14px;box-shadow:0 10px 30px rgba(0,0,0,0.15)">
   </a>
 </p>
 
@@ -8,7 +8,7 @@
 <p align="center">Anime lover • Software & app creator • Visual tinkerer</p>
 
 <p align="center">
-  <img src="./nasa.jpeg" alt="Avatar" width="96" height="96" style="border-radius:50%; box-shadow:0 6px 18px rgba(0,0,0,0.12); margin-bottom:6px;">
+  <img src="./nasa.jpeg" alt="Avatar" width="150" height="150" style="border-radius:50%; box-shadow:0 6px 18px rgba(0,0,0,0.12); margin-bottom:6px;">
 </p>
 
 <p align="center">
